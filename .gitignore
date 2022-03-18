@@ -16,9 +16,9 @@
 /build
 
 # misc
+/.env* 
 .DS_Store
 *.pem
-.env*
 
 # debug
 npm-debug.log*
