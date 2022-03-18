@@ -11,7 +11,7 @@ export default function NotFound() {
 						404 - Page not found
 					</h1>
 					<p className='text-xl'>
-						We can't find the page you are looking for.
+						{`We can\'t find the page you are looking for.`}
 					</p>
 				</div>
 				<Link href='/'>
